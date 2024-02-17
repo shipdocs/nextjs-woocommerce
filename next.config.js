@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     domains: [
       'swewoocommerce.dfweb.no',
-      'res.cloudinary.com',
+      'shipshopeurope.com',
       'via.placeholder.com',
     ],
   },
